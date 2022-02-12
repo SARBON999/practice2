@@ -22,7 +22,7 @@ body{
     top: 50%;
     left: 50%;
     transform: translate(-50% , -50%);
-    border-radius: 2%;   
+    border-radius: 3  ,%;   
 }
 .texts{
     border-radius: 2%;
@@ -36,6 +36,8 @@ body{
     background-image: url(images/image-header-desktop.jpg);
     background-blend-mode: multiply;
     background-size: cover;
+    Border-redious:3%;
+
 }
 .texts h2{
     font-weight: 700;
